@@ -1,5 +1,6 @@
 # ML_PricePredition
-Individual exercises using model LSTM  
+Build price prediction chart using model LSTM  
+Individual exercises Individual exercises 18KTPM HCMUS 2022  
 
 # How to run
 cd ML_PricePredition  
